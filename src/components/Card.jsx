@@ -7,6 +7,7 @@ export default function Card() {
         <strong className="text-2xl">A quién seguir</strong>
         <Sectionfollow userName="midudev" name="Miguel Angel" />
         <Sectionfollow userName="DayanErwin" name="Dayan Plaza" />
+        <Sectionfollow userName="@CharreVictoria" name="Victoria Charre" />
       </div>
     </>
   );
